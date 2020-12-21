@@ -1,2 +1,0 @@
-# reimagined-octo-adventure
-typo 
